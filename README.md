@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrea Proia
 ====================================================================================================================================
 
-AI Engineer
+AI-HPC Engineer
 -----------
 
-I love learning new things!
+I love learning new things! 
+I am currently working as an AI researcher to develop solutions for AI projects in a HPC environment.
 
 * 🌍  I'm based in Bologna, Italy
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/andrea-proia/)
-* 🧠  I'm learning Tensorflow, Pytorch, Data Science, MLOps
-* 🤝  I'm open to collaborating on AI open-source projects
-* ⚡  My main skill is Googling!
+* 🧠  I'm learning Data Science and MLOps for large HPC systems
+* 🤝  I'm open to collaborating on AI open-source projects of any kind
+* ⚡  My main skill is Googling! 
 
 ### Skills
 
