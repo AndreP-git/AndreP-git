@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrea Proia
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-AI-HPC Applied Researcher
+AI-HPC Researcher
 -----------
 
 I love learning new things! 
-I am currently working as an AI researcher to develop solutions for AI projects in a HPC environment.
+I am currently working as an AI-HPC researcher to develop solutions for AI projects in a HPC environment.
 
 * 🌍  I'm based in Bologna, Italy
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/andrea-proia/)
