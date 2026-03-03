@@ -1,15 +1,15 @@
 ![](https://media.licdn.com/dms/image/v2/C5616AQE1ZrMZllb7Lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1649797871032?e=1746662400&v=beta&t=Og4TC9C8T_LRPsaSl28FHOdx4sl3eXDaFieQgpwjqQw)
 ====================================================================================================================================
 
-AI-HPC Researcher
+PhD Candidate in Data Science and Computation - AI-HPC Researcher
 -----------
 
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I am currently working as an AI-HPC researcher to develop solutions for AI projects in a HPC environment.
+I am currently a PhD Candidate in Data Science and Computation focusing on AI‑based Optimization of Large‑Scale AI Workloads in High‑Performance Computing Systems.
 
 * 🌍  I'm based in Bologna, Italy
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/andrea-proia/)
-* 🧠  I'm focusing on LLMs, RAG, AI Agents and and MLOps (also for large HPC systems!)
+* 🧠  I'm focusing on LLMs, RAG and AI Agents (also for large HPC systems!)
 * 🤝  I'm open to collaborating on AI open-source projects of any kind
 * ⚡  My main skill is Googling! 
 
