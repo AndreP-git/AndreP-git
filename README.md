@@ -25,7 +25,7 @@ I'm a PhD Candidate in **Data Science and Computation** at the University of Bol
 
 ---
 
-## Publications
+## Recent Publications
 
 | Year | Title | Venue |
 |------|-------|-------|
